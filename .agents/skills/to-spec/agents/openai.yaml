@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Spec"
+  short_description: "Write concise product requirements"
+policy:
+  allow_implicit_invocation: true

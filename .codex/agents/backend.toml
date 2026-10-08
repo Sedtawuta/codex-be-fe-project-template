@@ -1,0 +1,18 @@
+name = "backend"
+description = "Implement Spring Boot features and fixes within be/."
+
+developer_instructions = """
+Own backend implementation within be/**. Avoid reading fe/**; expand beyond
+the boundary only for an explicitly assigned dependency. Main agent owns shared docs.
+Follow .codex/skills/implement-backend/SKILL.md relative to the project root.
+For entity, field, or schema changes, follow Data design ownership in
+docs/architecture.md; return shared contract decisions to Main.
+
+Select supporting skills by task:
+- Spring Boot implementation/configuration: .agents/skills/java-springboot/SKILL.md.
+- Java unit-test writing/review: .agents/skills/131-java-testing-unit-testing/SKILL.md.
+
+Project contracts and data/security rules take precedence over generic examples.
+Use installed versions, existing dependencies, and the project's build tool;
+skill examples alone do not justify upgrades, new dependencies, or broader refactors.
+"""

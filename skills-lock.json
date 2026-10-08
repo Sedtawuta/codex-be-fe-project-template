@@ -1,0 +1,93 @@
+{
+  "skills": {
+    "131-java-testing-unit-testing": {
+      "computedHash": "3aec5f2f6d926ae0ff2116fef45ecd41d5497a08ddc79980bf21d19a73076e72",
+      "skillPath": "skills/131-java-testing-unit-testing/SKILL.md",
+      "source": "jabrena/plinth",
+      "sourceType": "github"
+    },
+    "angular-developer": {
+      "computedHash": "4b23f026727c3e7aad1b553eac3769a39fb2cb3d2e04a450712455ce67653cef",
+      "skillPath": "angular-developer/SKILL.md",
+      "source": "angular/skills",
+      "sourceType": "github"
+    },
+    "angular-new-app": {
+      "computedHash": "49bd84ab08bd3498c52f476bed48fbb942dc6dbc0925607e84549adbed34bccf",
+      "skillPath": "angular-new-app/SKILL.md",
+      "source": "angular/skills",
+      "sourceType": "github"
+    },
+    "domain-modeling": {
+      "computedHash": "b3eb40152b81f0c98fd2095a023c019452dbdce56f7540cc67fece2972db8369",
+      "skillPath": "skills/engineering/domain-modeling/SKILL.md",
+      "source": "mattpocock/skills",
+      "sourceType": "github"
+    },
+    "grill-with-docs": {
+      "computedHash": "35e62aa423aaeab6a414bcac273f56dfb17802ef2334b41b6a3b00f28196c8cf",
+      "localHash": "2c3f090b94093ea044ece2585e6da56219d077890461080a16a3e82849360f32",
+      "skillPath": "skills/engineering/grill-with-docs/SKILL.md",
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "templateAdapted": true
+    },
+    "grilling": {
+      "computedHash": "ef1641a2047b71b60f1942cd35efb47d3afc9d584dff5a0b01f8c7db923aaa08",
+      "localHash": "9ba8b8bcaec33470dfdd38abba135668f59a44604ba43de9690005251f14aeb9",
+      "skillPath": "skills/productivity/grilling/SKILL.md",
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "templateAdapted": true
+    },
+    "interface-design": {
+      "computedHash": "340cc79a1558f09371aa3eb689952a8b777c1d7362c24226e99693606a80828e",
+      "skillPath": ".claude/skills/interface-design/SKILL.md",
+      "source": "Dammyjay93/interface-design",
+      "sourceType": "github"
+    },
+    "java-springboot": {
+      "computedHash": "f1b9c6b1277178fc33e5a612761c1cd1cf6ab5f946d05d69d52026d142c0a0c1",
+      "skillPath": "skills/java-springboot/SKILL.md",
+      "source": "github/awesome-copilot",
+      "sourceType": "github"
+    },
+    "primeng": {
+      "computedHash": "83c2e48e8077f18c5fc16e7a3531e592367811e000967f412b0d10548e0bfad9",
+      "skillPath": "skills/primeng/SKILL.md",
+      "source": "begj/agent-skills",
+      "sourceType": "github"
+    },
+    "setup-matt-pocock-skills": {
+      "computedHash": "1d35d0afa3ded88c9324d38db08b2cff91cd03e0e11d64786bee41385cd7b9fb",
+      "localHash": "12ef7f40def6645afa84b7023f59ae87bba7331af774b94e57c3bcd2cbbefcca",
+      "skillPath": "skills/engineering/setup-matt-pocock-skills/SKILL.md",
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "templateAdapted": true
+    },
+    "tailwind-css-patterns": {
+      "computedHash": "6092620c3af955a46ea2b94ca8a40197ac8392e6bbdc8c7515659328b186c770",
+      "skillPath": "plugins/developer-kit-typescript/skills/tailwind-css-patterns/SKILL.md",
+      "source": "giuseppe-trisciuoglio/developer-kit",
+      "sourceType": "github"
+    },
+    "to-spec": {
+      "computedHash": "3fa1a0695d4ea242fae9e569e4d22aa1788623197abb33bfadafae7315789bbf",
+      "localHash": "92fc7a7dbddfb1be07aafca07dd215dc1a47a78afbd961f56139a3bd15d4f121",
+      "skillPath": "skills/engineering/to-spec/SKILL.md",
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "templateAdapted": true
+    },
+    "to-tickets": {
+      "computedHash": "5f871bdc46a9212222214ba399be4965374208af1bd7f48f1271bef72841dd31",
+      "localHash": "d5c3878bf47e143a06e5c072461c4b7495dd81696213657dd438064001a45468",
+      "skillPath": "skills/engineering/to-tickets/SKILL.md",
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "templateAdapted": true
+    }
+  },
+  "version": 1
+}

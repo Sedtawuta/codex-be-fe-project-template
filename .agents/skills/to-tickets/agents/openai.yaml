@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Tickets"
+  short_description: "Split an MVP into feature contracts"
+policy:
+  allow_implicit_invocation: true
