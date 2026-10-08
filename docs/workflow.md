@@ -41,6 +41,13 @@ feedback only on unresolved material decisions. This costs time upfront but can
 reduce rebuilding screens after implementation; it does not guarantee less time
 for every change. Independent backend work need not wait for unrelated UI choices.
 
+For a prototype with usability uncertainty or supplied user feedback, Main may
+ask `ux-researcher` for a focused review before dependent implementation planning.
+Supply the feature path and concrete design/feedback evidence. It returns
+prioritized findings and hypotheses; Main records agreed changes and frontend
+implements them. This is optional within stage 4, not another approval gate;
+feedback during review or iteration can use the same role.
+
 ## One source per concern
 
 - `docs/overview.md`: navigation and project identity; link the PRD for scope.
@@ -81,6 +88,12 @@ check results, and blockers; they are not running transcripts in requirements.
 ใช้ design-feature ออกแบบ docs/features/<feature>.md ก่อนวางแผนพัฒนา
 ให้ frontend ใช้ interface-design เสนอหน้าจอและ flow หลัก
 ทำ clickable prototype เฉพาะเมื่อจำเป็น และเก็บข้อสรุปใน UI ของ feature
+```
+
+```text
+ให้ ux-researcher ตรวจ usability ของ docs/features/<feature>.md
+พร้อม prototype [path] และ feedback [ถ้ามี]
+แยกปัญหาที่มีหลักฐานกับข้อสมมติ และส่งข้อเสนอให้ Main ตัดสินใจ
 ```
 
 ```text

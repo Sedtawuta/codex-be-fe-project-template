@@ -1,7 +1,7 @@
 # Working agreement
 
 - Main agent: coordinate scope, contracts, and results. Handle small local changes directly using the matching role; read only affected implementation. For delegated work, inspect implementation only for a concrete blocker or integration question.
-- Delegate when independent work or a separate review justifies another agent. Use `backend`, `frontend`, or `reviewer` from `.codex/agents/*.toml`; provide the feature path, owned paths, and acceptance criteria. Never assign overlapping files concurrently. If delegation is unavailable, apply the scoped role locally.
+- Delegate when independent work or a separate review justifies another agent. Use `backend`, `frontend`, `reviewer`, or `ux-researcher` from `.codex/agents/*.toml`; provide the feature path, owned paths, and acceptance criteria. Never assign overlapping files concurrently. If delegation is unavailable, apply the scoped role locally.
 - Read `docs/overview.md` for project scope; `docs/features/<feature>.md` for the assigned feature. Read `docs/architecture.md` for cross-layer/API decisions and `docs/domain.md` for business/data rules. Load only relevant sections.
 - Use root `GLOSSARY.md` as the single source of domain terminology; read only relevant entries. Main: when defining/changing terms or domain relationships, use `.agents/skills/domain-modeling/SKILL.md`.
 - Main: for a project idea, PRD, or MVP decomposition, follow `docs/workflow.md`; load only the current stage's skill.
